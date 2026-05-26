@@ -1,4 +1,4 @@
-const CACHE = 'login-rm-v1';
+const CACHE = 'login-rm-v2';
 const FILES = [
   './',
   './index.html',
